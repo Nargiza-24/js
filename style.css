@@ -1,0 +1,10 @@
+.wrapper {
+    width: 960px;
+}
+
+@media (max-width: 960px) {
+    .one, .two, .three {
+      width: 33%;
+    }
+  }
+  
